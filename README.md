@@ -1,76 +1,76 @@
+<h1 align="center">Hi ☁️, I'm Abhilasha Chitrans</h1>
 
-Hi there! 👋  
-I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing Specialization)** student at **Lovely Professional University**. I’m passionate about building and managing cloud-native systems and exploring how scalable, secure, and automated cloud solutions power the modern digital world.
-
----
-
-## 🚀 About Me
-
-- 🎓 **CSE Student (Cloud Computing Specialization)** — 7th Semester at LPU  
-- ☁️ 1+ Year Hands-on Experience with **AWS** & **Microsoft Azure**  
-- 🐳 Skilled in **DevOps**, **Virtualization**, and **Cloud Security**  
-- 💻 Currently Learning: **Kubernetes**, **Terraform**, **Serverless Architectures**  
-- 🎯 Goal: Become a **Cloud Architect / DevOps Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Specialist+☁️;DevOps+Engineer+🚀;AWS+%26+Azure+Explorer+⚙️;Building+Scalable+Cloud+Solutions+🌐;" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 Core Cloud Skills
+### 🌟 About Me
 
-| Category | Technologies / Tools |
-|----------|------------------------|
-| ☁️ **Cloud Platforms** | AWS, Microsoft Azure, Google Cloud |
-| 🧩 **Compute & Storage** | EC2, S3, Lambda, Azure VM, Blob Storage |
-| 🧱 **Networking** | VPC, Route Tables, Subnets, Load Balancers, NSGs |
-| 🔐 **Security** | IAM, Security Groups, JIT VM Access, MFA, Key Vault |
-| ⚙️ **DevOps Tools** | Docker, Jenkins, Prometheus, Grafana |
-| 🗄️ **Infrastructure as Code (IaC)** | Terraform, AWS CloudFormation |
-| 🧪 **Monitoring & Logging** | CloudWatch, Azure Monitor, Grafana |
-| 🧰 **Others** | GitHub Actions, CI/CD Pipelines, Linux, Bash |
+- 🎓 **B.Tech CSE (Cloud Computing Specialization)** — 7th Semester at **Lovely Professional University**  
+- ☁️ Hands-on experience with **AWS** & **Microsoft Azure**  
+- 🧠 Skilled in **DevOps**, **Virtualization**, and **Cloud Security**  
+- 💻 Currently exploring **Kubernetes**, **Terraform**, and **Serverless Architectures**  
+- 🎯 Goal: Become a **Cloud Architect / DevOps Engineer**  
+- 📫 Reach me at **abhilasha.chitrans@email.com**
 
 ---
 
-## 📊 GitHub Stats & Visuals
+### 🛠️ Tech Stack
 
-### 🧩 Profile Summary  
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achitrans&theme=tokyonight)
+#### ☁️ Cloud & DevOps:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,prometheus,grafana" />
+</p>
 
-### ⚙️ Stats & Streaks  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achitrans&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=achitrans&theme=tokyonight)
+#### 💻 Programming & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode,bash" />
+</p>
 
-### 🌐 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achitrans&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Badges & Skills
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🧰 Programming & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### ⚙️ Infrastructure & CI/CD:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,cloudflare" />
+</p>
 
 ---
 
-## 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achitrans&theme=tokyo-night)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=achitrans&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=achitrans&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achitrans&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🏆 GitHub Trophies
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhilasha-chitrans-54910924b)  
-- 🐙 [GitHub](https://github.com/achitrans)  
-- ✉️ **Email:** yourname@email.com  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=achitrans&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-> _“The Cloud is not about where you work — it’s about how you work.”_ ☁️
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhilasha-chitrans-54910924b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/achitrans" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:abhilasha.chitrans@email.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achitrans&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">💬 “The Cloud is not about where you work — it’s about how you work.” ☁️</p>
