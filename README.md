@@ -1,4 +1,3 @@
-# ☁️ Cloud Computing Portfolio
 
 Hi there! 👋  
 I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing Specialization)** student at **Lovely Professional University**. I’m passionate about building and managing cloud-native systems and exploring how scalable, secure, and automated cloud solutions power the modern digital world.
@@ -50,7 +49,6 @@ I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing Specialization)** 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🧰 Programming & Tools  
