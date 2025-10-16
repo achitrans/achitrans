@@ -1,8 +1,8 @@
 # ☁️ Cloud Computing Portfolio
 
 Hi there! 👋  
-I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing specialization)** student at **Lovely Professional University**, passionate about building and managing cloud-native systems.  
-I’m exploring how scalable, secure, and automated cloud solutions power the modern digital world.
+I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing Specialization)** student at **Lovely Professional University**, passionate about building and managing cloud-native systems.  
+I love exploring how scalable, secure, and automated cloud solutions power the modern digital world.
 
 ---
 
@@ -11,7 +11,7 @@ I’m exploring how scalable, secure, and automated cloud solutions power the mo
 - 🎓 **CSE Student (Cloud Computing Specialization)** — 7th Semester at LPU  
 - ☁️ 1+ Year Hands-on Experience with **AWS** & **Microsoft Azure**  
 - 🐳 Skilled in **DevOps**, **Virtualization**, and **Cloud Security**  
-- 💻 Currently learning: **Kubernetes**, **Terraform**, and **Serverless Architectures**  
+- 💻 Currently Learning: **Kubernetes**, **Terraform**, and **Serverless Architectures**  
 - 🎯 Goal: Become a **Cloud Architect / DevOps Engineer**
 
 ---
@@ -34,7 +34,7 @@ I’m exploring how scalable, secure, and automated cloud solutions power the mo
 ## 📊 GitHub Stats & Visuals
 
 ### 🧩 Profile Summary
-![Aditya's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Abhilasha's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ### ⚙️ Stats & Streaks
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
@@ -62,7 +62,6 @@ I’m exploring how scalable, secure, and automated cloud solutions power the mo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 
 ## 📈 Activity Graph
 ![Abhilasha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
