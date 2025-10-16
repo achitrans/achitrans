@@ -1,7 +1,7 @@
 # ☁️ Cloud Computing Portfolio
 
 Hi there! 👋  
-I’m **Aditya**, a **B.Tech CSE (Cloud Computing specialization)** student at **Lovely Professional University**, passionate about building and managing cloud-native systems.  
+I’m **Abhilasha Chitrans**, a **B.Tech CSE (Cloud Computing specialization)** student at **Lovely Professional University**, passionate about building and managing cloud-native systems.  
 I’m exploring how scalable, secure, and automated cloud solutions power the modern digital world.
 
 ---
@@ -20,7 +20,7 @@ I’m exploring how scalable, secure, and automated cloud solutions power the mo
 
 | Category | Technologies / Tools |
 |-----------|----------------------|
-| ☁️ **Cloud Platforms** | AWS, Microsoft Azure, Google Cloud (GCP) |
+| ☁️ **Cloud Platforms** | AWS, Microsoft Azure, Google Cloud |
 | 🧩 **Compute & Storage** | EC2, S3, Lambda, Azure VM, Blob Storage |
 | 🧱 **Networking** | VPC, Route Tables, Subnets, Load Balancers, NSGs |
 | 🔐 **Security** | IAM, Security Groups, JIT VM Access, MFA, Key Vault |
@@ -31,44 +31,48 @@ I’m exploring how scalable, secure, and automated cloud solutions power the mo
 
 ---
 
-## 🧑‍💻 Projects
+## 📊 GitHub Stats & Visuals
 
-### 🌩️ 1. **Real-time Cloud Monitoring System**
-- **Tech:** Ubuntu, Docker, Node Exporter, Prometheus, Grafana  
-- **Description:** Built a cloud-based infrastructure monitoring setup with real-time metric visualization and alerting system.  
-- **Key Highlights:** Automated alerts, efficient metric scraping, proactive system health management.
+### 🧩 Profile Summary
+![Aditya's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-### 🔒 2. **Azure Security Automation**
-- **Tech:** Azure AD, PowerShell, NSG, Role-Based Access Control (RBAC)  
-- **Description:** Configured automated security roles and Just-in-Time VM access policies to strengthen Azure VM defense.
+### ⚙️ Stats & Streaks
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-### 🧱 3. **AWS Infrastructure Deployment using Terraform**
-- **Tech:** Terraform, AWS EC2, S3, IAM  
-- **Description:** Deployed an automated AWS environment with reusable IaC modules for faster and error-free provisioning.
+### 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📜 Certifications
+## 🏆 Badges & Skills
 
-- ✅ **AWS Cloud Practitioner Essentials** – AWS Training  
-- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-- ✅ **Introduction to DevOps** – IBM SkillsBuild  
-- ✅ **Docker Essentials** – CognitiveClass.ai  
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🧰 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧩 Currently Exploring
 
-- ☸️ Kubernetes (EKS, AKS)
-- 🏗️ Terraform Advanced Modules
-- 🚀 Cloud Automation with GitHub Actions & Azure DevOps
+## 📈 Activity Graph
+![Abhilasha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/)  
-- 🐙 [GitHub](https://github.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)  
+- 🐙 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
 - ✉️ **Email:** yourname@email.com  
 
 ---
