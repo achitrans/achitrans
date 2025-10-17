@@ -13,7 +13,7 @@
 - 🧠 Skilled in **DevOps**, **Virtualization**, and **Cloud Security**  
 - 💻 Currently exploring **Kubernetes**, **Terraform**, and **Serverless Architectures**  
 - 🎯 Goal: Become a **Cloud Architect / DevOps Engineer**  
-- 📫 Reach me at **abhilasha.chitrans@email.com**
+- 📫 Reach me at **achitrans277@gmail.com**
 
 ---
 
