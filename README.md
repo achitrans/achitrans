@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-- 🎓 **B.Tech CSE (Cloud Computing Specialization)** — 7th Semester at **Lovely Professional University**  
+- 🎓 **B.Tech CSE (Cloud Computing Specialization)** — at **Lovely Professional University**  
 - ☁️ Hands-on experience with **AWS** & **Microsoft Azure**  
 - 🧠 Skilled in **DevOps**, **Virtualization**, and **Cloud Security**  
 - 💻 Currently exploring **Kubernetes**, **Terraform**, and **Serverless Architectures**  
